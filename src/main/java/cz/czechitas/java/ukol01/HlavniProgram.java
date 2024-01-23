@@ -11,7 +11,7 @@ public class HlavniProgram {
 
   public void start() {
     zofka = new Turtle();
- //
+ ///
     //TODO implementace domácího úkolu
   }
 
